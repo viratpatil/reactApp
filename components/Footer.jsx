@@ -4,6 +4,8 @@ class Footer extends React.Component {
 
     render() {
 
+        
+        
         return (
             <footer id="footer">
                 <h3>netflixroulette</h3>
