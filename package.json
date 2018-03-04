@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "first react application",
   "main": "server.js",
+  "homepage": "https://github.com/viratpatil/reactApp/"
   "scripts": {
     "start": "webpack && node server",
     "wp": "webpack"
